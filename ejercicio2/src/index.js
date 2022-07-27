@@ -6,6 +6,6 @@ let faborBook = {
     title: "The Roman Latter",
     author: "San Pablo",
     date: new Date(1,1,40),
-    url: null
+    url: "https://www.bibliaenlinea.org/romanos"
 }
 
