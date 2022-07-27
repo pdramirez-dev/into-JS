@@ -1,0 +1,13 @@
+{
+  "name": "ejercicio2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start-app": "node src/index.js",
+    "start-test": "node src/ejercicio.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
